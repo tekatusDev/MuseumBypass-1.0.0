@@ -6,7 +6,7 @@
 </div>
 
 ## Download
-Download from [Releases](https://github.com/tekatus/MuseumBypass-1.0.0/releases/tag/hypixel) and drag it in to your mods folder.
+Download from [Releases](https://github.com/tekatusDev/MuseumBypass-1.0.0/releases/tag/hypixel) and drag it in to your mods folder.
 
 ## Features
 - Bypass the Auction House Limit
